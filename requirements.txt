@@ -1,0 +1,5 @@
+Packages to import:
+numpy
+pandas
+matplotlib.pyplot
+scipy
